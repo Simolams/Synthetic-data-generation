@@ -1,5 +1,5 @@
-import poo 
-from poo import *
+import synthdata 
+from synthdata import *
 
 
 
