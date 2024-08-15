@@ -18,4 +18,4 @@ The ChatViz feature allows you to plot graphs and visualize the dataset to verif
 
 
 You can watch a demonstration of the tool in the video below:
-[![Watch the Video]][(https://example.com/path-to-your-video.mp4](https://drive.google.com/file/d/1wdNsQ5MyQvtweY1uCZIdp_qW8qnJCNfu/view?usp=sharing)
+[![Watch the Video]][(https://Gen-IA/path-to-video-demo.mp4](https://drive.google.com/file/d/1wdNsQ5MyQvtweY1uCZIdp_qW8qnJCNfu/view?usp=sharing)
