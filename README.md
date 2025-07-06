@@ -17,5 +17,3 @@ You can customize the synthetic data using the chat bar. Here, you can send prom
 The ChatViz feature allows you to plot graphs and visualize the dataset to verify whether the synthetic data adheres to the statistical constraints defined initially.
 
 
-You can watch a demonstration of the tool in the video below:
-[![Watch the Video]][(https://Gen-IA/path-to-video-demo.mp4](https://drive.google.com/file/d/1wdNsQ5MyQvtweY1uCZIdp_qW8qnJCNfu/view?usp=sharing)
